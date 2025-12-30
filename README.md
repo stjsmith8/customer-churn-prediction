@@ -4,6 +4,8 @@
 This project predicts **credit card customer churn** for an undisclosed bank using supervised machine learning.  
 Three models are developed and compared to identify at-risk customers and uncover the strongest drivers of attrition.
 
+For a more detailed write-up of the results see here: https://www.notion.so/Predicting-Customer-Churn-2075d2b3ab78811b8ebcff1951d76431
+
 📓 **Main notebook:**  
 [predicting_customer_churn.ipynb](https://github.com/stjsmith8/customer-churn-prediction/blob/main/notebooks/predicting_customer_churn.ipynb)
 
