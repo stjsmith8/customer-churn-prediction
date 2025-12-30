@@ -5,7 +5,7 @@ This project predicts **credit card customer churn** for an undisclosed bank usi
 Three models are developed and compared to identify at-risk customers and uncover the strongest drivers of attrition.
 
 📓 **Main notebook:**  
-[Predicting Customer Credit Card Churn.ipynb](Predicting%20Customer%20Credit%20Card%20Churn.ipynb)
+[predicting_customer_churn.ipynb](https://github.com/stjsmith8/customer-churn-prediction/blob/main/notebooks/predicting_customer_churn.ipynb)
 
 ---
 
